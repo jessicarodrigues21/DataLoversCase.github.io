@@ -38,6 +38,6 @@ Para que com esses dados seja possivel obter insights para engajamento e melhori
 </p>
 
 <h2>Autoria do projeto</h2>
-<a href="https://github.com/jessicarodrigues21">Jessica</a>
+<a href="https://github.com/jessicarodrigues21">Jessica</a> <br>
 <a href="https://github.com/Milene055">Darlene</a>
 
